@@ -1,1 +1,1 @@
-Project on Servlet/jsp
+Ad service app on Servlet/jsp
